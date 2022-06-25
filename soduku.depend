@@ -1,0 +1,311 @@
+# depslib dependency file v1.0
+1656084771 source:c:\users\yfu\desktop\soduku\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"soduku.h"
+	<time.h>
+	<dirent.h>
+
+1656063325 source:c:\users\yfu\desktop\soduku\algorithm.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1656000313 source:c:\users\yfu\desktop\soduku\consolesetting.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1656086767 source:c:\users\yfu\desktop\soduku\map.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"loadgame.h"
+
+1656064766 source:c:\users\yfu\desktop\soduku\notice.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1656076890 c:\users\yfu\desktop\soduku\soduku.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"map.h"
+	"algorithm.h"
+	"movement.h"
+
+1656087068 c:\users\yfu\desktop\soduku\map.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1656063099 c:\users\yfu\desktop\soduku\algorithm.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1656088033 c:\users\yfu\desktop\soduku\movement.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1656088453 source:c:\users\yfu\desktop\soduku\movement.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"notice.h"
+	"consolesetting.h"
+	"algorithm.h"
+
+1656057869 c:\users\yfu\desktop\soduku\notice.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1655988572 c:\users\yfu\desktop\soduku\consolesetting.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1656088560 source:c:\users\yfu\desktop\soduku\soduku.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"map.h"
+	"algorithm.h"
+	"movement.h"
+	<time.h>
+	"menu.h"
+	<dirent.h>
+
+1656085434 source:c:\users\yfu\desktop\soduku\loadgame.c
+	<stdio.h>
+	<stdlib.h>
+
+1656086011 c:\users\yfu\desktop\soduku\loadgame.h
+	<stdio.h>
+	<stdlib.h>
+
+1656087100 source:c:\users\yfu\desktop\soduku\menu.c
+	<stdio.h>
+	"soduku.h"
+
+1656088584 source:c:\users\yfu\desktop\soduku\outputgame.c
+	<stdio.h>
+	<stdlib.h>
+
+1656086569 c:\users\yfu\desktop\soduku\menu.h
+	<stdio.h>
+
+1656144263 source:d:\project\soduku\algorithm.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1656144263 source:d:\project\soduku\consolesetting.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1656147444 source:d:\project\soduku\loadgame.c
+	<stdio.h>
+	<stdlib.h>
+
+1656144263 source:d:\project\soduku\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"soduku.h"
+	<time.h>
+	<dirent.h>
+
+1656144263 d:\project\soduku\soduku.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"map.h"
+	"algorithm.h"
+	"movement.h"
+
+1656144263 d:\project\soduku\map.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1656144263 d:\project\soduku\algorithm.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1656144263 d:\project\soduku\movement.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1656144263 source:d:\project\soduku\map.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"loadgame.h"
+
+1656144263 d:\project\soduku\loadgame.h
+	<stdio.h>
+	<stdlib.h>
+
+1656144263 source:d:\project\soduku\menu.c
+	<stdio.h>
+	"soduku.h"
+
+1656146334 source:d:\project\soduku\movement.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"notice.h"
+	"consolesetting.h"
+	"algorithm.h"
+
+1656144263 d:\project\soduku\notice.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1656144263 d:\project\soduku\consolesetting.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1656144263 source:d:\project\soduku\notice.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1656145117 source:d:\project\soduku\outputgame.c
+	<stdio.h>
+	<stdlib.h>
+
+1656145448 source:d:\project\soduku\soduku.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"map.h"
+	"algorithm.h"
+	"movement.h"
+	<time.h>
+	"menu.h"
+	<dirent.h>
+
+1656144263 d:\project\soduku\menu.h
+	<stdio.h>
+
+1656171826 source:c:\users\fuyun\onedrive\desktop\soduku\algorithm.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1656168453 source:c:\users\fuyun\onedrive\desktop\soduku\consolesetting.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1656169018 source:c:\users\fuyun\onedrive\desktop\soduku\loadgame.c
+	<stdio.h>
+	<stdlib.h>
+
+1656193247 source:c:\users\fuyun\onedrive\desktop\soduku\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	<time.h>
+	"RandomNummer.h"
+
+1656173334 c:\users\fuyun\onedrive\desktop\soduku\soduku.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"map.h"
+	"algorithm.h"
+	"movement.h"
+
+1656173095 c:\users\fuyun\onedrive\desktop\soduku\map.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1656173010 c:\users\fuyun\onedrive\desktop\soduku\algorithm.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1656173229 c:\users\fuyun\onedrive\desktop\soduku\movement.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1656193566 source:c:\users\fuyun\onedrive\desktop\soduku\map.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"loadgame.h"
+	"RandomNummer.h"
+
+1656173045 c:\users\fuyun\onedrive\desktop\soduku\loadgame.h
+	<stdio.h>
+	<stdlib.h>
+
+1656165812 source:c:\users\fuyun\onedrive\desktop\soduku\menu.c
+	<stdio.h>
+	"soduku.h"
+
+1656170711 source:c:\users\fuyun\onedrive\desktop\soduku\movement.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"notice.h"
+	"consolesetting.h"
+	"algorithm.h"
+
+1656173246 c:\users\fuyun\onedrive\desktop\soduku\notice.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1656173022 c:\users\fuyun\onedrive\desktop\soduku\consolesetting.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1656170753 source:c:\users\fuyun\onedrive\desktop\soduku\notice.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1656170821 source:c:\users\fuyun\onedrive\desktop\soduku\outputgame.c
+	<stdio.h>
+	<stdlib.h>
+
+1656173278 source:c:\users\fuyun\onedrive\desktop\soduku\soduku.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"map.h"
+	"algorithm.h"
+	"movement.h"
+	<time.h>
+	"menu.h"
+	<dirent.h>
+
+1656173125 c:\users\fuyun\onedrive\desktop\soduku\menu.h
+	<stdio.h>
+
+1656192806 source:c:\users\fuyun\onedrive\desktop\soduku\randomnummer.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1656193076 c:\users\fuyun\onedrive\desktop\soduku\randomnummer.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

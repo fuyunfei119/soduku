@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="soduku" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/soduku" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/soduku" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="RandomNummer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="RandomNummer.h" />
+		<Unit filename="algorithm.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="algorithm.h" />
+		<Unit filename="consolesetting.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="consolesetting.h" />
+		<Unit filename="loadgame.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="loadgame.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="map.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="map.h" />
+		<Unit filename="maps/test1.txt" />
+		<Unit filename="menu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu.h" />
+		<Unit filename="movement.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="movement.h" />
+		<Unit filename="notice.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="notice.h" />
+		<Unit filename="outputgame.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="outputgame.h" />
+		<Unit filename="soduku.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="soduku.h" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
