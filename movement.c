@@ -180,7 +180,7 @@ int GameHandle(int X,int Y,HANDLE *hOut,COORD *pos,int Map[9][9],int ResultMap[9
         pos->Y = Y;
 
         SetConsoleCursorPosition(*hOut, *pos);
-        return;
+        return 0;
     }
 
     printf("Please enter your value:\t");
