@@ -12,7 +12,7 @@ typedef enum
  * @brief To randomly remove some nummer in each rows of map.
  * @param Map : The map where user will formally play.
  */
-void (int Map[9][9]);
+void RandomRemoveNummerFromMap(int Map[9][9]);
 
 /**
  * @brief To generate random soduku 2d array which just only can be once solved.
