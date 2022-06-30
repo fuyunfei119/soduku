@@ -13,9 +13,9 @@ typedef enum
  * @brief To randomly remove some nummer in each rows of map.
  * @param Map : The map where user will formally play.
  */
-void (int Map[9][9])
+void RandomRemoveNummerFromMap (int Map[9][9])
 {
-    for (i = 0; i < 9; i++)
+    for (int i = 0; i < 9; i++)
 	{
 	    /// random times remove
 	    int randomtimes = rand() % 5;
@@ -24,7 +24,7 @@ void (int Map[9][9])
         {
             /// remove nummer
             int randomofrows = rand() % 10;
-            for (j = 0; j < 9; j++)
+            for (int j = 0; j < 9; j++)
             {
                 /// assign zero in this position
                 Map[i][randomofrows] = 0;
